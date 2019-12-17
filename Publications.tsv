@@ -1,4 +1,7 @@
 DOI	shortDOI	PMID	Wikidata_item_identifier	PMCID	Preprint_DOI
+-	-			-	10.1101/2019.12.13.874362
+-	-			-	10.1101/864512
+-	-			-	10.1101/606483
 10.15252/embj.2019101650	dg4r				
 10.3389/fmicb.2019.01181	dg4s				
 10.3389/fnins.2019.00460	dg4t				
@@ -9,7 +12,7 @@ DOI	shortDOI	PMID	Wikidata_item_identifier	PMCID	Preprint_DOI
 10.1371/journal.ppat.1007618	dg4z				
 10.1038/s41586-018-0619-8	gfdb5v				
 10.1080/15476286.2018.1514234	dg42				
-10.1093/gigascience/giy096	dg43	30169674		PMC6123526	
+10.1093/gigascience/giy096	dg43	30169674		PMC6123526	10.1101/143081
 10.1093/nar/gky765	dg44				
 10.26508/lsa.201800080	gfnqd4				
 10.1111/1462-2920.14360	dg45				
@@ -48,7 +51,7 @@ DOI	shortDOI	PMID	Wikidata_item_identifier	PMCID	Preprint_DOI
 10.1016/j.cell.2014.06.046	f6fwkx				
 10.1038/ncomms5718	f6f44j				
 10.1186/1471-2164-15-684	gb3gq5				
-10.1093/bioinformatics/btu533	f6rmn5	25123900	Q22951230		
+10.1093/bioinformatics/btu533	f6rmn5	25123900	Q22951230		10.1101/003723
 10.1093/nar/gku714	f6mp2z				
 10.1128/AEM.01835-14	f6gkbc				
 10.4161/rna.29440	dg5m				
