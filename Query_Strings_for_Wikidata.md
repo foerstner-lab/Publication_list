@@ -1,3 +1,7 @@
+Find our articles with us in `author_name_string` and not as
+`author_name` property:
+
+```
 SELECT ?item
 WHERE
 {
@@ -17,3 +21,4 @@ WHERE
   {?item wdt:P2093 "Konrad Ulrich Förstner"}
 
 }
+```
