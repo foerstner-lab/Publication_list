@@ -1,85 +1,85 @@
-DOI	shortDOI	PMID	Wikidata_item_identifier	PMCID	Preprint_DOI
-10.1128/mSystems.00403-21	gnx5t6	34931882	Q110253703		10.1101/2020.11.29.402362
-10.1038/s41586-021-03583-3 		34040261			
-10.1515/bfp-2020-2038	hcbn				
-10.1016/j.cell.2020.08.001					
-10.1002/mbo3.1138					
-10.1093/nar/gkaa676					10.1101/2020.06.29.177014
-10.3390/biom10081161	d6gm	-	-	-	-
-10.3389/fmicb.2020.00523	d5p8	32292399	-	PMC7118207 	-
--	-	-	-	-	10.1101/2020.06.29.177014
-10.7554/eLife.58836	d5nw	32744240	-	-	-
-10.1128/mBio.01027-20	dzrc	32546623	-	PMC7298713	10.1101/864512
-10.1172/jci.insight.135143	dwd9	32434994	-	PMC7259537 	-
-10.15252/embj.2019103852	dsf3	32227509	-	-	-
-10.1093/nar/gkaa148	dpx5	32182356	-	-	10.1101/2019.12.13.874362
--	-	-	-	-	10.1101/606483
-10.18420/inf2019_26	dsf4	-	-	-	-
-10.15252/embj.2019101650	dg4r	31313835	Q76319373	PMC6694218	-
-10.3389/fmicb.2019.01181	dg4s	31191497	Q64916610	PMC6548865	-
-10.3389/fnins.2019.00460	dg4t	31133792	Q64019868	PMC6524554	-
-10.1097/j.pain.0000000000001623	dg4v	31145221	Q81520539	-	-
-10.1371/journal.pone.0215986	dg4w	31039177	Q64019871	PMC6490895	-
-10.1128/JB.00730-18	dg4q	30885931	Q64019873	PMC6509659	-
-10.1111/mmi.14238	dg4x	30873665	Q64027550	-	-
-10.1371/journal.ppat.1007618	dg4z	30870530	Q64019875	PMC6435200	-
-10.1038/s41586-018-0619-8	gfdb5v	30333624	Q57497392	PMC6784898	-
-10.1080/15476286.2018.1514234	dg42	30153081	Q57344149	PMC6546354	-
-10.1093/gigascience/giy096	dg43	30169674	Q57344156	PMC6123526	10.1101/143081
-10.1093/nar/gky765	dg44	30165530	Q57344163	PMC6237742	-
-10.26508/lsa.201800080	gfnqd4	30456366	Q57344168	PMC6238624	-
-10.1111/1462-2920.14360	dg45	30033661	Q61658127	-	-
-10.3389/fmicb.2018.01473	dg46	30050506	Q61658129	PMC6050364	-
-10.3389/fmicb.2018.00929	dg47	29896160	Q55022785	PMC5987069	-
-10.1128/AAC.01510-17	dg48	29133557	Q50042586	PMC5786816	-
-10.3389/fmicb.2017.01941	gcf5t5	29067007	Q42700509	PMC5641341	-
-10.1186/s12974-017-0924-4	gbp3xv	28738885	Q38664253	PMC5525315	-
-10.15252/embj.201695323	gbwmd7	28701485	Q33140157	PMC5579346 	-
-10.1080/15476286.2017.1341020	dg49	28665778	Q33140504	PMC5785230	-
-10.1128/JB.00249-17	dg5b	28507242	Q33140561	PMC5494747	-
-10.1080/15476286.2017.1306170	dg5c	28296572	Q30017317	PMC5785227	-
-10.1093/nar/gkx137	gbj2rw	28334975	Q28871814	PMC5499795	10.1101/055178
-10.1128/mBio.02041-16	dg5d	28196958	Q30017361	PMC5312081	-
-10.1016/j.molcel.2016.11.002	f9t2rq	28061332	Q28583172	PMC5222698	-
-10.3389/fmicb.2016.01858	dg5f	27917168	Q30017388	PMC5114275	-
-10.1038/srep35307	f87z3n	27748404	Q27977592	PMC5066232	-
-10.1073/pnas.1609981113	f868nm	27671629	Q27243322	PMC5068311	-
-10.1186/s12864-016-2920-y	dg5g	27519343	Q30017423	PMC4983044	-
-10.1128/mBio.00813-16	dg5h	27486191	Q30017431	PMC4981712	-
-10.1128/JB.00381-16	dg5j	27353652	Q30017448	PMC4999932	-
-10.1371/journal.pgen.1006057	f8v7nn	27272207	Q28828936	PMC4894637	-
-10.1073/pnas.1520255113	f8qdvm	27185949	Q30017477	PMC4896717	-
-10.1186/s12864-016-2602-9	f8wrtx	27107716	Q24247657	PMC4842269	-
-10.1038/nature16547	f77v5r	26789254	Q24285722		-
-10.3389/fmicb.2015.01373	gccwtc	26696982	Q30017519	PMC4667094	-
-10.1371/journal.pone.0142002	f8bcjd	26540162	Q24490214	PMC4634765	-
-10.1186/s12864-015-1993-3	f75qnh	26462475	Q24490201	PMC4603805	-
-10.1073/pnas.1500203112	f62bb7	25646441	Q24490182	PMC4343088	-
-10.1371/journal.pcbi.1003905	zzg	25633715	Q24490172	PMC4310607	-
-10.12688/f1000research.5686.2	gdj5wz	25653839	Q24288821	PMC4304228	-
-10.1074/jbc.M114.612663	f6t6p6	25352599	Q24490165	PMC4271202	-
-10.1371/journal.pone.0110427	dg5k	25330313	Q24490074	PMC4201532	-
-10.1128/JB.02096-14	f6sqkk	25266388	Q24490458	PMC4288677	-
-10.1186/1471-2164-15-794	gb3hhg	25220182	Q24490066	PMC4176601	-
-10.1016/j.cell.2014.06.046	f6fwkx	25171407	Q24490083	PMC4163622	-
-10.1038/ncomms5718	f6f44j	25146723	Q24490032		-
-10.1186/1471-2164-15-684	gb3gq5	25127548	Q30017682	PMC4247193	-
-10.1093/bioinformatics/btu533	f6rmn5	25123900	Q22951230		10.1101/003723
-10.1093/nar/gku714	f6mp2z	25104019	Q24489967	PMC4150806	-
-10.1128/AEM.01835-14	f6gkbc	25002423	Q24489982	PMC4178615	-
-10.4161/rna.29440	dg5m	24922065	Q24489997	PMC4179960	-
-10.1093/nar/gkt634	dg5n	23877245	Q24489937	PMC3794594	-
-10.1371/journal.pgen.1003576	f48pnf	23818867	Q24489928	PMC3688512	-
-10.1371/journal.pgen.1003495	f4w38x	23696746	Q24489927	PMC3656092	-
-10.1128/JB.00746-12	dg5p	22923593	Q24489878	PMC3486118 	-
-10.1105/tpc.111.089441	fzfzhv	22267485	Q24489867	PMC3289561	-
-10.1038/nature09944	cwhmx6	21508958	Q24489818	PMC3728647	-
-10.3233/ISU-2011-0621	dg5q		Q53170561	-	-
-10.1371/journal.pone.0003515	c75hvq	18953415	Q24489674	PMC2568958	-
-10.1371/journal.pone.0003976	cwcz2v	19096720	Q21092159	PMC2603476	-
-10.1371/journal.pone.0002607	dh37h2	18612393	Q24489657	PMC2442867	-
-10.1016/j.mib.2007.09.001	ctqtbk	17936679	Q24489639	-	-
-10.1038/sj.emboj.7601699	c83v2w	17464285	Q24489623	PMC1888663	-
-10.1016/j.ijmm.2005.11.011	ft9tpz	16644280	Q24489573	-	-
-10.1098/rstb.2005.1809	d5wjxg	16524840	Q24489522	PMC1609345	-
-10.1038/sj.embor.7400538	fmsj8c	16200051	Q24489465	PMC1369203	-
+DOI	shortDOI	PMID	Wikidata_item_identifier	PMCID	Preprint_DOI	Title	Year	Author
+10.1128/mSystems.00403-21	gnx5t6	34931882	Q110253703		10.1101/2020.11.29.402362	CoxBase: an Online Platform for Epidemiological Surveillance, Visualization, Analysis, and Typing of Coxiella burnetii Genomic Sequences	2021	Akinyemi M. Fasemore et al.
+10.1038/s41586-021-03583-3 		34040261				Swarm Learning for decentralized and confidential clinical machine learning	2021	Stefanie Warnat-Herresthal et al.
+10.1515/bfp-2020-2038	hcbn					Data Literacy for Libraries – A Local Perspective on Library Carpentry	2020	Eva Seidlmayer et al.
+10.1016/j.cell.2020.08.001						Severe COVID-19 Is Marked by a Dysregulated Myeloid Cell Compartment	2020	Jonas Schulte-Schrepping et al.
+10.1002/mbo3.1138						Tetrachloroethene respiration in Sulfurospirillum species is regulated by a two-component system as unraveled by comparative genomics, transcriptomics, and regulator binding studies	2020	Jens Esken et al.
+10.1093/nar/gkaa676					10.1101/2020.06.29.177014	Grad-seq shines light on unrecognized RNA and protein complexes in the model bacterium Escherichia coli	2020	Jens Hör et al.
+10.3390/biom10081161	d6gm	-	-	-	-	The CARF Protein MM_0565 Affects Transcription of the Casposon-Encoded cas1-solo Gene in Methanosarcina mazei Gö1	2020	Andrea Ulbricht et al.
+10.3389/fmicb.2020.00523	d5p8	32292399	-	PMC7118207 	-	Differences in the Transcriptomic Response of Campylobacter coli and Campylobacter lari to Heat Stress	2020	Carolin Riedel et al.
+-	-	-	-	-	10.1101/2020.06.29.177014	Grad-seq shines light on unrecognized RNA and protein complexes in the model bacterium Escherichia coli	2020	Jens Hör et al.
+10.7554/eLife.58836	d5nw	32744240	-	-	-	Gene autoregulation by 3’ UTR-derived bacterial small RNAs	2020	Mona Hoyos et al.
+10.1128/mBio.01027-20	dzrc	32546623	-	PMC7298713	10.1101/864512	The Leader Peptide peTrpL Forms Antibiotic-Containing Ribonucleoprotein Complexes for Posttranscriptional Regulation of Multiresistance Genes	2020	Hendrik Melior et al.
+10.1172/jci.insight.135143	dwd9	32434994	-	PMC7259537 	-	IL-12 from endogenous cDC1, and not vaccine DC, is required for Th1 induction	2020	DiyaaElDin Ashour et al.
+10.15252/embj.2019103852	dsf3	32227509	-	-	-	Grad-seq in a Gram-positive bacterium reveals exonucleolytic sRNA activation in competence control	2020	Jens Hör et al.
+10.1093/nar/gkaa148	dpx5	32182356	-	-	10.1101/2019.12.13.874362	YBEY is an essential biogenesis factor for mitochondrial ribosomes	2019	Sabrina Summer et al.
+-	-	-	-	-	10.1101/606483	Posttranscriptional regulation of ribosomal and multiresistance genes by the bacterial leader peptide peTrpL	2019	Hendrik Melior et al.
+10.18420/inf2019_26	dsf4	-	-	-	-	Inductive Learning of Concept Representations from Library-Scale Bibliographic Corpora	2019	Lukas Galke et al.
+10.15252/embj.2019101650	dg4r	31313835	Q76319373	PMC6694218	-	A conserved RNA seed-pairing domain directs small RNA-mediated stress resistance in enterobacteria	2019	Nikolai Peschek et al.
+10.3389/fmicb.2019.01181	dg4s	31191497	Q64916610	PMC6548865	-	Induced Pluripotent Stem Cell-Derived Brain Endothelial Cells as a Cellular Model to Study Neisseria meningitidis Infection	2019	Sara F. Martins Gomes et al.
+10.3389/fnins.2019.00460	dg4t	31133792	Q64019868	PMC6524554	-	Identification of Cholecystokinin by Genome-Wide Profiling as Potential Mediator of Serotonin-Dependent Behavioral Effects of Maternal Separation in the Amygdala	2019	Magdalena T. Weidner et al.
+10.1097/j.pain.0000000000001623	dg4v	31145221	Q81520539	-	-	Sensory profiles and immune-related expression patterns of patients with and without neuropathic pain after peripheral nerve lesion	2019	Melissa Held et al.
+10.1371/journal.pone.0215986	dg4w	31039177	Q64019871	PMC6490895	-	Characterization of the transcriptome of Haloferax volcanii, grown under four different conditions, with mixed RNA-Seq	2019	Sebastian Laass et al.
+10.1128/JB.00730-18	dg4q	30885931	Q64019873	PMC6509659	-	The RNase YbeY Is Vital for Ribosome Maturation, Stress Resistance, and Virulence of the Natural Genetic Engineer Agrobacterium tumefaciens	2019	Philip Möller et al.
+10.1111/mmi.14238	dg4x	30873665	Q64027550	-	-	A non-coding RNA from the intercellular adhesion (ica) locus of Staphylococcus epidermidis controls polysaccharide intercellular adhesion (PIA)-mediated biofilm formation	2019	Maike F. Lerch et al.
+10.1371/journal.ppat.1007618	dg4z	30870530	Q64019875	PMC6435200	-	The small non-coding RNA RsaE influences extracellular matrix composition in Staphylococcus epidermidis biofilm communities	2019	Sonja M. K. Schoenfelder et al.
+10.1038/s41586-018-0619-8	gfdb5v	30333624	Q57497392	PMC6784898	-	Genome organization and DNA accessibility control antigenic variation in trypanosomes	2018	Laura S. M. Müller et al.
+10.1080/15476286.2018.1514234	dg42	30153081	Q57344149	PMC6546354	-	Cross-cleavage activity of Cas6b in crRNA processing of two different CRISPR-Cas systems in Methanosarcina mazei Gö1	2018	Lisa Nickel et al.
+10.1093/gigascience/giy096	dg43	30169674	Q57344156	PMC6123526	10.1101/143081	ANNOgesic: a Swiss army knife for the RNA-seq based annotation of bacterial/archaeal genomes	2018	Sung-Huan Yu et al.
+10.1093/nar/gky765	dg44	30165530	Q57344163	PMC6237742	-	Post-transcriptional gene regulation by an Hfq-independent small RNA in Caulobacter crescentus	2018	Kathrin S Fröhlich et al.
+10.26508/lsa.201800080	gfnqd4	30456366	Q57344168	PMC6238624	-	RNase E cleavage shapes the transcriptome of Rhodobacter sphaeroides and strongly impacts phototrophic growth	2018	Konrad U. Förstner et al.
+10.1111/1462-2920.14360	dg45	30033661	Q61658127	-	-	SuhB, a small non-coding RNA involved in catabolite repression of tetralin degradation genes in Sphingopyxis granuli strain TFA	2018	Inmaculada García-Romero et al.
+10.3389/fmicb.2018.01473	dg46	30050506	Q61658129	PMC6050364	-	A New Bioactive Compound From the Marine Sponge-Derived Streptomyces sp. SBT348 Inhibits Staphylococcal Growth and Biofilm Formation	2018	Srikkanth Balasubramanian et al.
+10.3389/fmicb.2018.00929	dg47	29896160	Q55022785	PMC5987069	-	The Probiotic Escherichia coli Strain Nissle 1917 Combats Lambdoid Bacteriophages stx and ?	2018	Susanne Bury et al.
+10.1128/AAC.01510-17	dg48	29133557	Q50042586	PMC5786816	-	A Novel Mechanism of Inactivating Antibacterial Nitro Compounds in the Human Pathogen Staphylococcus aureus by Overexpression of a NADH-Dependent Flavin Nitroreductase	2018	Ebaa M. El-Hossary et al.
+10.3389/fmicb.2017.01941	gcf5t5	29067007	Q42700509	PMC5641341	-	Insights into Microalga and Bacteria Interactions of Selected Phycosphere Biofilms Using Metagenomic, Transcriptomic, and Proteomic Approaches	2017	Ines Krohn-Molt et al.
+10.1186/s12974-017-0924-4	gbp3xv	28738885	Q38664253	PMC5525315	-	Differential effects of FTY720 on the B cell compartment in a mouse model of multiple sclerosis	2017	Kathrin Bail et al.
+10.15252/embj.201695323	gbwmd7	28701485	Q33140157	PMC5579346 	-	GT-rich promoters can drive RNA pol II transcription and deposition of H2A.Z in African trypanosomes	2017	Carolin Wedel et al.
+10.1080/15476286.2017.1341020	dg49	28665778	Q33140504	PMC5785230	-	dRNA-seq transcriptional profiling of the FK506 biosynthetic gene cluster in Streptomyces tsukubaensis NRRL18488 and general analysis of the transcriptome	2017	Judith S. Bauer et al.
+10.1128/JB.00249-17	dg5b	28507242	Q33140561	PMC5494747	-	An RpoHI-Dependent Response Promotes Outgrowth after Extended Stationary Phase in the Alphaproteobacterium Rhodobacter sphaeroides	2017	Bart Remes et al.
+10.1080/15476286.2017.1306170	dg5c	28296572	Q30017317	PMC5785227	-	sRNA154 a newly identified regulator of nitrogen fixation in Methanosarcina mazei strain Gö1.	2017	Daniela Prasse et al.
+10.1093/nar/gkx137	gbj2rw	28334975	Q28871814	PMC5499795	10.1101/055178	APRICOT: an integrated computational pipeline for the sequence-based identification and characterization of RNA-binding proteins.	2017	Malvika Sharan et al.
+10.1128/mBio.02041-16	dg5d	28196958	Q30017361	PMC5312081	-	Transcription Profiling of Bacillus subtilis Cells Infected with AR9, a Giant Phage Encoding Two Multisubunit RNA Polymerases	2017	Daria Lavysh et al.
+10.1016/j.molcel.2016.11.002	f9t2rq	28061332	Q28583172	PMC5222698	-	The Cohesin Complex Prevents the End Joining of Distant DNA Double-Strand Ends	2016	Camille Gelot et al.
+10.3389/fmicb.2016.01858	dg5f	27917168	Q30017388	PMC5114275	-	The Absence of the N-acyl-homoserine-lactone Autoinducer Synthase Genes traI and ngrI Increases the Copy Number of the Symbiotic Plasmid in Sinorhizobium fredii NGR234	2016	Jessica Grote et al.
+10.1038/srep35307	f87z3n	27748404	Q27977592	PMC5066232	-	The primary transcriptome of the Escherichia coli O104:H4 pAA plasmid and novel insights into its virulence gene expression and regulation	2016	Petya Berger et al.
+10.1073/pnas.1609981113	f868nm	27671629	Q27243322	PMC5068311	-	Grad-seq guides the discovery of ProQ as a major small RNA-binding protein	2016	Alexandre Smirnov et al.
+10.1186/s12864-016-2920-y	dg5g	27519343	Q30017423	PMC4983044	-	Genome-wide identification of transcriptional start sites in the haloarchaeon Haloferax volcanii based on differential RNA-Seq (dRNA-Seq)	2016	Julia Babski et al.
+10.1128/mBio.00813-16	dg5h	27486191	Q30017431	PMC4981712	-	Effect of Shear Stress on Pseudomonas aeruginosa Isolated from the Cystic Fibrosis Lung	2016	Jozef Dingemans et al.
+10.1128/JB.00381-16	dg5j	27353652	Q30017448	PMC4999932	-	cis-Encoded Small RNAs, a Conserved Mechanism for Repression of Polysaccharide Utilization in Bacteroides	2016	Yanlu Cao et al.
+10.1371/journal.pgen.1006057	f8v7nn	27272207	Q28828936	PMC4894637	-	Analysis of the Microprocessor in Dictyostelium: The Role of RbdB, a dsRNA Binding Protein	2016	Doreen Meier et al.
+10.1073/pnas.1520255113	f8qdvm	27185949	Q30017477	PMC4896717	-	Natural mutations in a Staphylococcus aureus virulence regulator attenuate cytotoxicity but permit bacteremia and abscess formation	2016	Sudip Das et al.
+10.1186/s12864-016-2602-9	f8wrtx	27107716	Q24247657	PMC4842269	-	Genome-wide transcription start site mapping of Bradyrhizobium japonicum grown free-living or in symbiosis – a rich resource to identify new transcripts, proteins and to study gene regulation	2016	Jelena ?uklina et al.
+10.1038/nature16547	f77v5r	26789254	Q24285722		-	Polymorphism of feldspars above 10 Gpa	2020	Anna Pakhomova et al.
+10.3389/fmicb.2015.01373	gccwtc	26696982	Q30017519	PMC4667094	-	Phenotypic Heterogeneity Affects Stenotrophomonas maltophilia K279a Colony Morphotypes and ?-Lactamase Expression	2015	Ebrahim M. Abda et al.
+10.1371/journal.pone.0142002	f8bcjd	26540162	Q24490214	PMC4634765	-	dRNA-Seq Reveals Genomewide TSSs and Noncoding RNAs of Plant Beneficial Rhizobacterium Bacillus amyloliquefaciens FZB42	2015	Ben Fan et al.
+10.1186/s12864-015-1993-3	f75qnh	26462475	Q24490201	PMC4603805	-	Genome-wide transcription start site profiling in biofilm-grown Burkholderia cenocepacia J2315	2015	Andrea M. Sass et al.
+10.1073/pnas.1500203112	f62bb7	25646441	Q24490182	PMC4343088	-	Differential RNA-seq of Vibrio cholerae identifies the VqmR small RNA as a regulator of biofilm formation	2015	Kai Papenfort et al.
+10.1371/journal.pcbi.1003905	zzg	25633715	Q24490172	PMC4310607	-	Ten Simple Rules for Organizing an Unconference	2015	Aidan Budd et al.
+10.12688/f1000research.5686.2	gdj5wz	25653839	Q24288821	PMC4304228	-	An open science peer review oath	2014	Jelena Aleksic et al.
+10.1074/jbc.m114.612663	f6t6p6	25352599	Q24490165	PMC4271202	-	Argonaute proteins affect siRNA levels and accumulation of a novel extrachromosomal DNA from the Dictyostelium retrotransposon DIRS-1.	2014	Benjamin Boesler et al.
+10.1371/journal.pone.0110427	dg5k	25330313	Q24490074	PMC4201532	-	Profound Impact of Hfq on Nutrient Acquisition, Metabolism and Motility in the Plant Pathogen Agrobacterium tumefaciens	2014	Philip Möller et al.
+10.1128/JB.02096-14	f6sqkk	25266388	Q24490458	PMC4288677	-	Global transcriptional start site mapping using differential RNA sequencing reveals novel antisense RNAs in Escherichia coli	2015	Maureen K Thomason et al.
+10.1186/1471-2164-15-794	gb3hhg	25220182	Q24490066	PMC4176601	-	Role of oxygen and the OxyR protein in the response to iron limitation in Rhodobacter sphaeroides	2014	Bernhard Remes et al.
+10.1016/j.cell.2014.06.046	f6fwkx	25171407	Q24490083	PMC4163622	-	Three research directions in non-uniform cellular automata	2014	Alberto Dennunzio et al.
+10.1038/ncomms5718	f6f44j	25146723	Q24490032		-	Functional high-throughput screening identifies the miR-15 microRNA family as cellular restriction factors for Salmonella infection	2014	Claire Maudet et al.
+10.1186/1471-2164-15-684	gb3gq5	25127548	Q30017682	PMC4247193	-	Primary transcriptome map of the hyperthermophilic archaeon Thermococcus kodakarensis	2014	Dominik Jäger et al.
+10.1093/bioinformatics/btu533	f6rmn5	25123900	Q22951230		10.1101/003723	READemption-a tool for the computational analysis of deep-sequencing-based transcriptome data	2014	Konrad U. Förstner et al.
+10.1093/nar/gku714	f6mp2z	25104019	Q24489967	PMC4150806	-	Regulation of transcription termination by glucosylated hydroxymethyluracil, base J, in Leishmania major and Trypanosoma brucei	2014	David Reynolds et al.
+10.1128/AEM.01835-14	f6gkbc	25002423	Q24489982	PMC4178615	-	RNA Sequencing Analysis of the Broad-Host-Range Strain Sinorhizobium fredii NGR234 Identifies a Large Set of Genes Linked to Quorum Sensing-Dependent Regulation in the Background of a traI and ngrI Deletion Mutant	2014	Dagmar Krysciak et al.
+10.4161/rna.29440	dg5m	24922065	Q24489997	PMC4179960	-	RNase J is required for processing of a small number of RNAs in Rhodobacter sphaeroides	2014	Tom Rische-Grahl et al.
+10.1093/nar/gkt634	dg5n	23877245	Q24489937	PMC3794594	-	Target recognition, RNA methylation activity and transcriptional regulation of the Dictyostelium discoideum Dnmt2-homologue (DnmA)	2013	Sara Müller et al.
+10.1371/journal.pgen.1003576	f48pnf	23818867	Q24489928	PMC3688512	-	Integrative “Omics”-Approach Discovers Dynamic and Regulatory Features of Bacterial Stress Responses	2013	Bork A. Berghoff et al.
+10.1371/journal.pgen.1003495	f4w38x	23696746	Q24489927	PMC3656092	-	High-Resolution Transcriptome Maps Reveal Strain-Specific Regulatory Features of Multiple Campylobacter jejuni Isolates	2013	Gaurav Dugar et al.
+10.1128/JB.00746-12	dg5p	22923593	Q24489878	PMC3486118 	-	Functional Characterization of the RNA Chaperone Hfq in the Opportunistic Human Pathogen Stenotrophomonas maltophilia	2012	Emanuela Roscetto et al.
+10.1105/tpc.111.089441	fzfzhv	22267485	Q24489867	PMC3289561	-	The primary transcriptome of barley chloroplasts: numerous noncoding RNAs and the dominating role of the plastid-encoded RNA polymerase	2012	Petya Zhelyazkova et al.
+10.1038/nature09944	cwhmx6	21508958	Q24489818	PMC3728647	-	Enterotypes of the human gut microbiome	2011	Manimozhiyan Arumugam et al.
+10.3233/ISU-2011-0621	dg5q		Q53170561	-	-	Wikis in scholarly publishing	2011	Daniel Mietchen et al.
+10.1371/journal.pone.0003515	c75hvq	18953415	Q24489674	PMC2568958	-	A Computational Screen for Type I Polyketide Synthases in Metagenomics Shotgun Data	2008	Konrad U. Förstner et al.
+10.1371/journal.pone.0003976	cwcz2v	19096720	Q21092159	PMC2603476	-	A Nitrile Hydratase in the Eukaryote Monosiga brevicollis	2008	Konrad U. Förstner et al.
+10.1371/journal.pone.0002607	dh37h2	18612393	Q24489657	PMC2442867	-	A Molecular Study of Microbe Transfer between Distant Environments	2008	Sean D. Hooper et al.
+10.1016/j.mib.2007.09.001	ctqtbk	17936679	Q24489639	-	-	Get the most out of your metagenome: computational analysis of environmental sequence data	2007	Jeroen Raes et al.
+10.1038/sj.emboj.7601699	c83v2w	17464285	Q24489623	PMC1888663	-	Splicing factors stimulate polyadenylation via USEs at non-canonical 3? end formation signals	2007	Sven Danckwardt et al.
+10.1016/j.ijmm.2005.11.011	ft9tpz	16644280	Q24489573	-	-	The sigmaB regulon in Staphylococcus aureus and its regulation	2006	Jan Pané-Farré et al.
+10.1098/rstb.2005.1809	d5wjxg	16524840	Q24489522	PMC1609345	-	Comparative analysis of environmental sequences: potential and challenges	2006	Konrad U. Förstner et al.
+10.1038/sj.embor.7400538	fmsj8c	16200051	Q24489465	PMC1369203	-	Environments shape the nucleotide composition of genomes	2005	Konrad U. Förstner et al.
